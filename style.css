@@ -107,11 +107,11 @@ button:nth-child(2):hover {
      left: 70%;
      transform: translate(-50%, -50%);
 }
-.circle:nth-child(1){
+.gradient-circle(1){
     background: linear-gradient(rgb(224, 5, 248), #262525);
     width: 38rem;
 }
-.circle:nth-child(2){
+.image-circle{
     width: 30rem;
     background-image: url("profile.jpg");
     background-size: 100%;
@@ -142,3 +142,4 @@ button:nth-child(2):hover {
     transform-origin: botton left;
 
 }
+
