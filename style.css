@@ -113,7 +113,7 @@ button:nth-child(2):hover {
 }
 .circle:nth-child(2){
     width: 30rem;
-    background-image: url("image/granola\ girl\ aesthetic\,\ alpine\ forest\ clearing\,\ mossy\ ground\ texture\,\ wildflower\ meadow\,\ mountain\ serenity\,\ untouched\ nature\ vibe\,\ slow\ earth\ rhythm\,\ cinematic\ greenery\,\ grounded\ wilderness.jpg");
+    background-image: url("profile.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
     border: 0.1rem solid white;
@@ -140,4 +140,5 @@ button:nth-child(2):hover {
 .navlist li a:hover::after, .navlist .active::after{
     transform: scaleX(1);
     transform-origin: botton left;
+
 }
